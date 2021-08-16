@@ -14,8 +14,8 @@ Meaning that even when they are tired, they never stop! 🦒
 
 ### 🤝 Connect with me:
 <div style="margin-left:10px">
-    <a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/linkedin.png" alt="Hermscoder | LinkedIn" width="21px" style="margin-right:10px"/></a>
-    <a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/instagram.png" alt="YHermscoder | Instagram" width="21px"/></a><br>
+    <a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/linkedin.png" alt="Hermscoder | LinkedIn" width="21px" style="margin-right:5px"/></a>
+    <a href="https://instagram.com/hermscoder"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/instagram.png" alt="Hermscoder | Instagram" width="21px"/></a><br>
 </div>
 
 ### 🔭 I’m currently working on
