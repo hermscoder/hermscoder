@@ -15,6 +15,7 @@ Meaning that even when they are tired, they never stop! 🦒
 
 ###🔭 I’m currently working on
 - 💻 On my blogfolio (blog + portfolio)
+
 ###🌱 I’m currently learning ...
 - 🎨 Studying more about angular and frontend related stuff
 
@@ -27,6 +28,7 @@ Meaning that even when they are tired, they never stop! 🦒
 ### ⚡ Fun fact: ...
 
 ###💼 Technical Skills 
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -49,5 +51,7 @@ Meaning that even when they are tired, they never stop! 🦒
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 ###📈Github Stats
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=hermscoder)](https://github.com/hermscoder)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermscoder&layout=compact)](https://github.com/hermscoder)
