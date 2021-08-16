@@ -3,7 +3,7 @@
 
 
 **Hermscoder** is an ✨ _extraordinary developer_ ✨
-I'm always looking for new challenges and projects that can motivate me to lear new concepts.
+Always looking for new challenges and projects that can motivate me to lear new concepts.
 
 I love giraffes, one of the reasons for it is the fact that:
 
