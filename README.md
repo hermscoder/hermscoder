@@ -47,7 +47,7 @@ Meaning that even when they are tired, they never stop! 🦒
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
-### 📈Github Stats
+### 📈 Github Stats
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=hermscoder)](https://github.com/hermscoder)
 
