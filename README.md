@@ -12,18 +12,17 @@ _Giraffes don't know how to **yawn**_.
 
 Meaning that even when they are tired, they never stop! 🦒
 
+### 🤝 Connect with me:
+<div style="margin-left:10px">
+    <a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/linkedin.png" alt="Hermscoder | LinkedIn" width="21px" style="margin-right:10px"/></a>
+    <a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/instagram.png" alt="YHermscoder | Instagram" width="21px"/></a><br>
+</div>
 
 ### 🔭 I’m currently working on
 - 💻 On my blogfolio (blog + portfolio)
 
 ### 🌱 I’m currently learning ...
 - 🎨 Studying more about angular and frontend related stuff
-
-### 🤝 Connect with me:
-<div style="margin-left:10px">
-    <a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/linkedin.png" alt="Hermscoder | LinkedIn" width="21px" style="margin-right:10px"/></a>
-    <a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/instagram.png" alt="YHermscoder | Instagram" width="21px"/></a><br>
-</div>
 
 ### 💼 Technical Skills 
 
