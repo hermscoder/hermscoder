@@ -16,18 +16,16 @@ Meaning that even when they are tired, they never stop! 🦒
 ###🔭 I’m currently working on
 - 💻 On my blogfolio (blog + portfolio)
 
-###🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 - 🎨 Studying more about angular and frontend related stuff
 
-###🤝 Connect with me:
+### 🤝 Connect with me:
 <div style="margin-left:10px">
     <a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/linkedin.png" alt="Hermscoder | LinkedIn" width="21px" style="margin-right:10px"/></a>
     <a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/instagram.png" alt="YHermscoder | Instagram" width="21px"/></a><br>
 </div>
 
-### ⚡ Fun fact: ...
-
-###💼 Technical Skills 
+### 💼 Technical Skills 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,7 +48,7 @@ Meaning that even when they are tired, they never stop! 🦒
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
-###📈Github Stats
+### 📈Github Stats
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=hermscoder)](https://github.com/hermscoder)
 
