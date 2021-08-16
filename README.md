@@ -13,7 +13,7 @@ _Giraffes don't know how to **yawn**_.
 Meaning that even when they are tired, they never stop! 🦒
 
 
-###🔭 I’m currently working on
+### 🔭 I’m currently working on
 - 💻 On my blogfolio (blog + portfolio)
 
 ### 🌱 I’m currently learning ...
