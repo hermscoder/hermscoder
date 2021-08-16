@@ -2,31 +2,38 @@
 ### Hi there 👋
 
 
-**hermscoder/hermscoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hermscoder** is an ✨ _extraordinary developer_ ✨
+I'm always looking for new challenges and projects that can motivate me to lear new concepts.
+
+I love giraffes, one of the reasons for it is the fact that:
+
+_Giraffes don't know how to **yawn**_.
 
 
-Here are some ideas to get you started:
+Meaning that even when they are tired, they never stop! 🦒
+
 
 ###🔭 I’m currently working on
+- 💻 On my blogfolio (blog + portfolio)
 ###🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🎨 Studying more about angular and frontend related stuff
+
 ###🤝 Connect with me:
-<a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="linkedin.png" alt="Hermscoder | LinkedIn" width="21px"/></a>
-<a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="instagram.png" alt="YHermscoder | Instagram" width="21px"/></a>
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-- ⚡ Fun fact: ...
+<div style="margin-left:10px">
+    <a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/linkedin.png" alt="Hermscoder | LinkedIn" width="21px" style="margin-right:10px"/></a>
+    <a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/instagram.png" alt="YHermscoder | Instagram" width="21px"/></a><br>
+</div>
+
+### ⚡ Fun fact: ...
 
 ###💼 Technical Skills 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
