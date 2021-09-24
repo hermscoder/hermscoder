@@ -1,4 +1,4 @@
-![banner](HERMSCODER.png)
+![banner](banner.png)
 ### Hi there 👋
 
 
