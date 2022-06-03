@@ -20,9 +20,10 @@ Meaning that even when they are tired, they never stop! 🦒
 
 ### 🔭 I’m currently working on
 - 💻 On my blogfolio (blog + portfolio)
+- 🏗️ Backend of a micro-services application for finding roomates.
 
 ### 🌱 I’m currently learning ...
-- 🎨 Studying more about angular and frontend related stuff
+- 🎨 Studying more about micro services with Spring
 
 ### 💼 Technical Skills 
 
