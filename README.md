@@ -50,6 +50,6 @@ Meaning that even when they are tired, they never stop! 🦒
 
 ### 📈 Github Stats
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=hermscoder)](https://github.com/hermscoder)
+[![Emerson’s github stats](https://github-readme-stats.vercel.app/api?username=hermscoder)](https://github.com/hermscoder)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermscoder&layout=compact)](https://github.com/hermscoder)
