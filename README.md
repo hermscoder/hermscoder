@@ -19,8 +19,8 @@ Meaning that even when they are tired, they never stop! 🦒
 </div>
 
 ### 🔭 I’m currently working on
-- 💻 On my blogfolio (blog + portfolio)
-- 🏗️ Backend of a micro-services application for finding roomates.
+- 💻 Improving my front-end understanding
+- 🏗️ Backend of a micro-services application for finding roomates. (On hold)
 
 ### 🌱 I’m currently learning ...
 - 🎨 Studying more about micro services with Spring
