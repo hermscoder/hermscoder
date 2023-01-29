@@ -19,11 +19,11 @@ Meaning that even when they are tired, they never stop! 🦒
 </div>
 
 ### 🔭 I’m currently working on
-- 💻 Improving my front-end understanding
+- 🎨 Building a game without any libraries in Java
 - 🏗️ Backend of a micro-services application for finding roomates. (On hold)
 
 ### 🌱 I’m currently learning ...
-- 🎨 Studying more about micro services with Spring
+- 🎨 Studying more about Kotlin, Java and developing micro services with Spring
 
 ### 💼 Technical Skills 
 
