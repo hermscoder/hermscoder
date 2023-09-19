@@ -2,8 +2,8 @@
 ### Hi there 👋
 
 
-**Hermscoder** is an ✨ _extraordinary developer_ ✨
-Always looking for new challenges and projects that can motivate me to lear new concepts.
+**Emerson (AKA Hermscoder)** is an ✨ _extraordinary developer_ ✨
+Always looking for new challenges and projects that can motivate me to learn new concepts.
 
 I love giraffes, and one of the reasons for it is the fact that:
 
@@ -13,16 +13,19 @@ Meaning that even when tired, they always show great resilience! 🦒
 
 ### 🤝 Connect with me:
 <div style="margin-left:10px">
-    <a href="https://www.linkedin.com/in/hermscoder/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/linkedin.png" alt="Hermscoder | LinkedIn" width="21px" style="margin-right:5px"/></a>
-    <a href="https://instagram.com/hermscoder"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/instagram.png" alt="Hermscoder | Instagram" width="21px"/></a><br>
+    <a href="https://www.linkedin.com/in/emerson-ribeiro-jr/"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/linkedin.png" alt="Hermscoder | LinkedIn" width="21px" style="margin-right:5px"/></a>
+    <a href="https://instagram.com/emer_jr"><img align="left" src="https://raw.githubusercontent.com/hermscoder/hermscoder/main/instagram.png" alt="Hermscoder | Instagram" width="21px"/></a><br>
 </div>
 
 ### 🔭 I’m currently working on
-- 🎨 Building a game without any libraries in Java
-- 🏗️ Backend of a micro-services application for finding roommates. (On hold)
+- 🎨 Building a game without any libraries in Java (On hold)
+- 🏗️ Studying micro-services applications using Spring Cloud. (On hold)
+- 🏪 Building an e-commerce called HermsShop using Angular and Spring Boot
+- 📄 Documenting my journey on my website [emersonribeiro.eu](https://emersonribeiro.eu/)
 
 ### 🌱 I’m currently learning ...
-- 🎨 Studying more about Kotlin, and Java and developing microservices with Spring
+- 💻 Studying more about Kotlin, and Java and developing microservices with Spring
+- 🎨 Angular Framework
 
 ### 💼 Technical Skills 
 
