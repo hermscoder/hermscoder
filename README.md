@@ -15,12 +15,6 @@ This means that even when tired, they always show great resilience! 🦒
 </div>
 
 ### 🔭 I’m currently working on
-- 🎨 Building a game without any libraries in Java (On hold)
-- 🏗️ Studying micro-services applications using Spring Cloud. (On hold)
-- 📄 Documenting my journey on my website [emersonribeiro.eu](https://emersonribeiro.eu/)
-- 🏪 Building an e-commerce called HermsShop using Angular and Spring Boot
-
-### 🔭 I’m currently working on
 - 🏗️ My fork of Pterodactyl®(a free, open-source game server management) [Customizable Seeder](https://github.com/hermscoder/pterodactyle-panel)
 - 📄 Documenting my journey on my website [emersonribeiro.eu](https://emersonribeiro.eu/)
 - 🏪 Building an e-commerce called HermsShop using Angular and Spring Boot (on hold for now)
