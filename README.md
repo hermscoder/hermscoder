@@ -1,15 +1,12 @@
-![banner](banner.png)
 ### Hi there 👋
 
-
-**Emerson (AKA Hermscoder)** is an ✨ _extraordinary developer_ ✨
-Always looking for new challenges and projects that can motivate me to learn new concepts.
+My name is **Emerson (AKA Hermscoder)** and I'm always looking for new challenges and projects that motivate me to learn new concepts.
 
 I love giraffes, and one of the reasons for it is the fact that:
 
 _Giraffes are the only vertebrate animal that doesn't **yawn**_.
 
-Meaning that even when tired, they always show great resilience! 🦒
+This means that even when tired, they always show great resilience! 🦒
 
 ### 🤝 Connect with me:
 <div style="margin-left:10px">
@@ -20,12 +17,18 @@ Meaning that even when tired, they always show great resilience! 🦒
 ### 🔭 I’m currently working on
 - 🎨 Building a game without any libraries in Java (On hold)
 - 🏗️ Studying micro-services applications using Spring Cloud. (On hold)
-- 🏪 Building an e-commerce called HermsShop using Angular and Spring Boot
 - 📄 Documenting my journey on my website [emersonribeiro.eu](https://emersonribeiro.eu/)
+- 🏪 Building an e-commerce called HermsShop using Angular and Spring Boot
+
+### 🔭 I’m currently working on
+- 🏗️ My fork of Pterodactyl®(a free, open-source game server management) [Customizable Seeder](https://github.com/hermscoder/pterodactyle-panel)
+- 📄 Documenting my journey on my website [emersonribeiro.eu](https://emersonribeiro.eu/)
+- 🏪 Building an e-commerce called HermsShop using Angular and Spring Boot (on hold for now)
+
 
 ### 🌱 I’m currently learning ...
-- 💻 Studying more about Kotlin, and Java and developing microservices with Spring
-- 🎨 Angular Framework
+- 💻 Go and Next
+- Learning more about Kotlin
 
 ### 💼 Technical Skills 
 
