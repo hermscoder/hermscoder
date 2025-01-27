@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Emerson (AKA Hermscoder)** and I'm always looking for new challenges and projects that motivate me to learn new concepts.
+My name is **Emerson** and I'm always looking for new challenges and projects that motivate me to learn new concepts.
 
 I love giraffes, and one of the reasons for it is the fact that:
 
@@ -17,12 +17,10 @@ This means that even when tired, they always show great resilience! 🦒
 ### 🔭 I’m currently working on
 - 🏗️ My fork of Pterodactyl®(a free, open-source game server management) [Customizable Seeder](https://github.com/hermscoder/pterodactyle-panel)
 - 📄 Documenting my journey on my website [emersonribeiro.eu](https://emersonribeiro.eu/)
-- 🏪 Building an e-commerce called HermsShop using Angular and Spring Boot (on hold for now)
 
 
 ### 🌱 I’m currently learning ...
-- 💻 Go and Next
-- Learning more about Kotlin
+- Learning more PgBouncer and centralizes db pooling mechanisms
 
 ### 💼 Technical Skills 
 
