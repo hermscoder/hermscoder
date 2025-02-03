@@ -1,0 +1,153 @@
+# EMERSON RIBEIRO
+
+## Business Systems Analyst | API Development & Integration | FinTech Solutions
+
+📍 Uberlândia  
+📱 +5534999081746  
+📧 emersonribeiro.dev@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/emerson-ribeiro-jr/)
+
+#### Languages
+- Portuguese: Native 
+- English: Fluent
+
+## Professional Summary
+Business Systems Analyst with extensive experience in financial technology, specializing in bridging the gap between business requirements and technical implementation. Proven track record in requirements analysis, process optimization, and stakeholder management. Background in payment systems and banking integration, with expertise in documenting complex workflows and API specifications.
+
+## Professional Experience
+
+### Business Systems Analyst / Software Engineer
+**ITMAGINATION** | Warsaw, Poland  
+*07/2022 - Present*
+
+Led requirements analysis and system design initiatives in the payment sector, focusing on translating complex business needs into actionable technical solutions.
+
+**Key Responsibilities & Achievements:**
+
+* Spearheaded requirement gathering sessions with stakeholders, successfully transforming complex business needs into detailed technical specifications and well-defined user stories
+
+* Designed and documented payment processing workflows using Mermaid diagrams, significantly improving stakeholder understanding of business processes and reducing the need for clarification meetings
+
+* Created comprehensive API documentation and integration guides using Swagger, enabling business stakeholders to better understand system capabilities and streamlining the integration process
+
+* Facilitated bi-weekly workshops between business and development teams to validate requirements and ensure alignment with business objectives
+
+* Established standardized templates for business requirements documentation, substantially reducing requirement clarification cycles and improving project efficiency
+
+* Analyzed and documented integration requirements for banking systems (SFTP, APIs), ensuring compliance with business rules and regulatory requirements
+
+* Developed and maintained process flow documentation for batch processing operations, improving operational efficiency and reducing processing errors
+
+* Collaborated with QA team to create comprehensive test scenarios based on business acceptance criteria, ensuring thorough coverage of requirements
+
+**Tools & Methodologies:**
+- Business Process Modeling
+- Requirements Documentation
+- API Specification
+- Stakeholder Management
+- Agile/Scrum
+- JIRA
+- Mermaid
+- Swagger
+
+---
+
+### Business Systems Analyst
+**eDreams ODIGEO** | Porto, Portugal  
+*08/2021 - 07/2022*
+
+Analyzed and optimized high-volume flight booking systems handling 100k+ requests per minute, focusing on business process improvement and system performance optimization.
+
+**Key Responsibilities & Achievements:**
+
+* Led business impact analysis for system performance optimization initiatives, resulting in 50% improvement in flight search response times and increased customer satisfaction for an airline.
+
+* Gathered and documented business requirements for real-time flight inventory system, collaborating with product owners and stakeholders across multiple departments
+
+* Created detailed data flow diagrams and system architecture documentation using monitoring tools (Datadog, Grafana, Kibana) to help business stakeholders understand system behavior and make informed decisions
+
+* Analyzed business metrics and system performance data to identify bottlenecks and propose optimization solutions, presenting findings to senior management
+
+* Implemented data visualization dashboards in Grafana for business KPIs, enabling real-time monitoring of booking conversion rates and system performance
+
+* Documented integration specifications for airline catalog systems, ensuring alignment between business requirements and technical implementation
+
+**Tools & Methodologies:**
+- Business Process Analysis
+- System Performance Analysis
+- Data Visualization (Grafana, Kibana)
+- Requirements Documentation
+- Stakeholder Management
+- Impact Analysis
+- KPI Monitoring
+- Agile/Scrum
+
+---
+
+### Business Systems Analyst / Integration Specialist
+**Aubay Portugal** | Porto, Portugal  
+*02/2021 - 08/2021*
+
+Specialized in analyzing and documenting integration requirements for financial institutions, focusing on middleware solutions that connect modern banking systems with legacy mainframe services.
+
+**Key Responsibilities & Achievements:**
+
+* Conducted thorough analysis of banking processes and data flows, documenting integration points between client systems and mainframe services
+
+* Gathered and documented complex business requirements from banking stakeholders, translating them into detailed functional specifications for middleware development
+
+* Created comprehensive integration mapping documents, detailing data transformations between modern and legacy banking systems
+
+* Developed detailed business process flows for banking operations, ensuring seamless integration between client-facing applications and core banking services
+
+* Collaborated with multiple stakeholders to understand and document compliance requirements for financial data handling and processing
+
+* Created and maintained data visualization reports for business stakeholders, translating complex technical metrics into actionable business insights
+
+* Established documentation standards for integration specifications, improving communication between business and technical teams
+
+* Led requirement validation sessions with banking clients to ensure all business needs were accurately captured and implemented
+
+**Tools & Methodologies:**
+- Business Process Analysis
+- Requirements Documentation
+- Integration Mapping
+- Financial Data Analysis
+- Stakeholder Management
+- Banking Systems Integration
+- Data Visualization
+- Regulatory Compliance
+
+--- 
+### Software Analyst
+**everis** | Uberlândia, Brazil  
+*06/2020 - 02/2021*
+
+Major modernization project at ITAÚ Bank, focusing on transforming legacy mainframe systems into modern web applications while ensuring business continuity and process improvement.
+
+**Key Responsibilities & Achievements:**
+
+* Conducted extensive analysis of existing mainframe processes and business rules, creating detailed documentation of current-state workflows and identifying optimization opportunities
+
+* Facilitated requirements gathering sessions with bank stakeholders to understand pain points and desired improvements in their daily operations
+
+* Created detailed mapping documents between legacy mainframe processes and new web application features, ensuring no business functionality was lost during modernization
+
+* Developed user journey maps and process flows to illustrate how the modernized system would improve daily routines for bank employees
+
+* Conducted impact analysis for each phase of the modernization project, identifying potential risks and proposing mitigation strategies
+
+* Collaborated with UX team to ensure new interfaces met user requirements while maintaining all necessary business functionality
+
+* Created transition plans and training documentation to support users moving from mainframe to web-based systems
+
+**Tools & Methodologies:**
+- Business Process Mapping
+- Legacy System Analysis
+- Requirements Documentation
+- Process Optimization
+- Change Management
+- User Journey Mapping
+- Stakeholder Management
+- Impact Analysis
+
