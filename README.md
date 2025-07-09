@@ -16,7 +16,7 @@ This means that even when tired, they always show great resilience! 🦒
 
 
 ### 🌱 I’m currently learning ...
-- Learning more PgBouncer and centralized db pooling mechanisms
+- Improving my knowledged in Python and understanding what this amazing programming language can do!
 
 ### 💼 Technical Skills 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
